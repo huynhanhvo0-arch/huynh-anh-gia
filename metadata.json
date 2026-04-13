@@ -1,0 +1,6 @@
+{
+  "name": "EduLink AI - Học Tiếng Anh TOEIC & IELTS",
+  "description": "Ứng dụng học tiếng Anh toàn diện cho người Việt, tích hợp AI chấm Speaking/Writing và lộ trình cá nhân hóa cho TOEIC/IELTS.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Coaching", "TOEIC/IELTS Prep", "Personalized Learning"]
+}
